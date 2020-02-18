@@ -1,0 +1,7 @@
+<link rel="stylesheet" type="text/css" href="toronto.css">
+
+#header {} {
+  background-image: url(https://yfcfredericton.ca/wp-content/uploads/Toronto-skyline.jpg);
+  height: 400px;
+  background-position: center center;
+}
