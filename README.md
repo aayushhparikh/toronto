@@ -1,2 +1,2 @@
 # toronto
-Website created to inform people about my own city Toronto
+Learn a little more about our city!
